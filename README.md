@@ -1,2 +1,2 @@
-# pancake_prediction_bot
-POC to predict pancake prediction
+# crypto_trading
+POC on crypto_trading and pancake swap prediction bot, 

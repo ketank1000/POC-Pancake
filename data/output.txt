@@ -1,0 +1,4 @@
+Summary :
+ Wins/Lose/skip: 7/7/82
+ Rate: 50.0 %
+ Profit: -28.0 $ (bid amt: 10, M: 1.6x)
