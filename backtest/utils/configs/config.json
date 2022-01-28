@@ -1,0 +1,13 @@
+{
+    "binance":{
+        "api_key": "",
+        "secret_key": ""
+    },
+    "telegram": {
+        "token": "",
+        "chat_id": ""
+    },
+    "contract": {
+        "address": "0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA"
+    }
+}
